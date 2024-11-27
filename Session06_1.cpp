@@ -5,34 +5,13 @@
     while (count < 5) {
         printf("Moi ban nhap so thu nhat %d: ", count + 1);
         scanf("%d", &num);  
-
-        
+     
         if (num % 2 != 0) {
             sum += num;  
         }
         count++;  
     }
-    printf("Tong cac so le là: %d\n", sum);
-
+    printf("Tong cac so le lÃ : %d\n", sum);
     return 0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
