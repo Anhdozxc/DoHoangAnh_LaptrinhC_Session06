@@ -16,7 +16,7 @@
         count++; 
     }
     printf("So luong so chan la: %d\n", evenCount);
-    printf("So lu?ng so le la: %d\n", oddCount);
+    printf("So luong so le la: %d\n", oddCount);
 
     return 0;
 }
